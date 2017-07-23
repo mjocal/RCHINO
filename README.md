@@ -1,0 +1,2 @@
+# RCHINO
+Proyecto Restaurante Chino
